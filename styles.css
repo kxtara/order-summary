@@ -17,7 +17,7 @@ body{
     height: 100vh;
     margin: 0;
     font-family: "red hat display";
-    background: url(/images/pattern-background-desktop.svg);
+    background: url(images/pattern-background-desktop.svg);
     background-repeat:no-repeat;
     background-color: var(--Pale-blue);
     display: flex;
