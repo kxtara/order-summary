@@ -4,12 +4,12 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Table of contents
 
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
+- [Built with](#built-with)
+- [Continued development](#continued-development)
 - [Author](#author)
 
 ### The challenge
@@ -20,12 +20,12 @@ Users should be able to:
 
 ### Screenshot
 
-![ScreenShot](https://raw.github.com/kxtara/order/main/images/mobile.jpg)
+![ScreenShot](https://raw.github.com/kxtara/order-summary/main/images/mobile.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/ordersummary-using-flexbox-mn123WJYx-]
+- Live Site URL: [https://kxtara.github.io/order-summary/]
 
 ## My process
 
